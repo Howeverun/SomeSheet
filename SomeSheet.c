@@ -9,6 +9,6 @@ long int ReturnSqr(int a)
 int	main(void)
 {
 	printf("%ld", ReturnSqr(12));
-	printf("%s\n", " - is sqr of 12");
+	printf("%s\n", " - is sqr of 12 🤪");
 	printf("%s\n", "^|&|^");
 }
